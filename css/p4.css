@@ -1,0 +1,18 @@
+/*#main {
+  background-color: powderblue;
+}*/
+* {
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   -ms-box-sizing: border-box;
+   box-sizing: border-box;
+}
+@media only screen and (max-width:648px) {
+    .flex-box {
+      /*font-size: 1.2em;*/
+      display:inline;
+      text-align: left;
+      /*background-color: red;*/
+      /*vertical-align: bottom;*/
+    }
+    }
